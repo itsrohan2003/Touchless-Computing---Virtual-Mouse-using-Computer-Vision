@@ -3,8 +3,6 @@ the program recognizes the victory symbol. the right hand by default is the domi
 the victory symbol once recognized, can be used to move the cursor.
 further instructions can be added by adding further pattern recognition and speicifc actions for them can be performed using pyautogui library.
 
-![hand recognition](https://drive.google.com/file/d/1kOv7B3X0CdPpOWjE_92ygeW136UDcw00/view?usp=drive_link)
-
 
 [Eureka! Click Here](https://drive.google.com/file/d/1y5kX_Z33axBkYz3hhrCdlAaKh9OMKiB2/view?usp=drive_link)
 
